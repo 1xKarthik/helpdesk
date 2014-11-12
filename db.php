@@ -1,6 +1,6 @@
 <?php
 
-$con=mysql_connect("https://onlinehelpdesk-vitians.rhcloud.com/phpmyadmin/","adminiqRrjFd","AwFKEvwcaXFc");
+$con=mysql_connect("127.11.109.2:3306","adminiqRrjFd","AwFKEvwcaXFc");
 mysql_select_db("onlinehelpdesk",$con);
 
 ?>
