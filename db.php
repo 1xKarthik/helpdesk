@@ -1,6 +1,6 @@
 <?php
 
-$con=mysql_connect("127.11.109.2:3306","admindhxIJH2","5wE6MPFN4x28");
+$con=mysql_connect("127.11.109.2","adminiqRrjFd","AwFKEvwcaXFc");
 mysql_select_db("onlinehelpdesk",$con);
 
 ?>
